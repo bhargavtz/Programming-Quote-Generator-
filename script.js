@@ -25,3 +25,4 @@ fetch('quotes.json')
         console.error('Error:', error);
         quoteContainer.textContent = 'Failed to load quotes.';
     });
+    const copyButtons = document.querySelectorAll('.copy-button');
