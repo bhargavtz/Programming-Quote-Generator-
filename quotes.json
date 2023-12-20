@@ -1,0 +1,42 @@
+[
+    {
+        "quote": "Talk is cheap. Show me the code.",
+        "author": "Linus Torvalds"
+    },
+    {
+        "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+        "author": "Harold Abelson"
+    },
+    {
+        "quote": "Truth can only be found in one place: the code.",
+        "author": "Robert C. Martin"
+    },
+    {
+        "quote": "Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.",
+        "author": "Muhammad Waseem"
+    },
+    {
+        "quote": "A language that doesn't affect the way you think about programming, is not worth knowing.",
+        "author": "Alan J. Perlis"
+    },
+    {
+        "quote": "Write the code that is needed, not just the code you know.",
+        "author": "Max Kanat-Alexander"
+    },
+    {
+        "quote": "Code is like humor. When you have to explain it, it’s bad.",
+        "author": "Cory House"  
+    },
+    {
+        "quote": "Before software can be reusable it first has to be usable.",
+        "author": "Ralph Johnson"
+    },
+    {
+        "quote": "Good code is its own best documentation.",
+        "author": "Steve McConnell"
+    },
+    {
+        "quote": "Better to have 100 functions operate on one data structure than 10 functions on 10 data structures.",
+        "author": "Alan Perlis"
+    }
+]
