@@ -38,5 +38,1029 @@
     {
         "quote": "Better to have 100 functions operate on one data structure than 10 functions on 10 data structures.",
         "author": "Alan Perlis"
+    },
+    {
+        "quote": "You only live once, but if you do it right, once is enough.",
+        "author": "Mae West"
+      },
+      {
+        "quote": "I am so clever that sometimes I don't understand a single word of what I am saying.",
+        "author": "Oscar Wilde"
+      },
+      {
+        "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+        "author": "J.K. Rowling, Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "quote": "All men who have turned out worth anything have had the chief hand in their own education.",
+        "author": "Walter Scott"
+      },
+      {
+        "quote": "Trust yourself. You know more than you think you do.",
+        "author": "Benjamin Spock"
+      },
+      {
+        "quote": "No one can make you feel inferior without your consent.",
+        "author": "Eleanor Roosevelt, This is My Story"
+      },
+      {
+        "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "quote": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.",
+        "author": "H. Jackson Brown Jr., P.S. I Love You"
+      },
+      {
+        "quote": "Life is really simple, but we insist on making it complicated.",
+        "author": "Confucius"
+      },
+      {
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill"
+      },
+      {
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+        "author": "Chinese Proverb"
+      },
+      {
+        "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+        "author": "Robert Frost"
+      },
+      {
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson"
+      },
+      {
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius"
+      },
+      {
+        "quote": "The future depends on what you do today.",
+        "author": "Mahatma Gandhi"
+      },
+      {
+        "quote": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama"
+      },
+      {
+        "quote": "The only person you should try to be better than is the person you were yesterday.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt"
+      },
+      {
+        "quote": "Life is 10% what happens to us and 90% how we react to it.",
+        "author": "Charles R. Swindoll"
+      },
+      {
+        "quote": "The harder I work, the luckier I get.",
+        "author": "Samuel Goldwyn"
+      },
+      {
+        "quote": "If you want to lift yourself up, lift up someone else.",
+        "author": "Booker T. Washington"
+      },
+      {
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "quote": "Don't let yesterday take up too much of today.",
+        "author": "Will Rogers"
+      },
+      {
+        "quote": "Life is short, and it's up to you to make it sweet.",
+        "author": "Sarah Louise Delany"
+      },
+      {
+        "quote": "The way to get started is to quit talking and begin doing.",
+        "author": "Walt Disney"
+      },
+      {
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "You miss 100% of the shots you don't take.",
+        "author": "Wayne Gretzky"
+      },
+      {
+        "quote": "The best revenge is massive success.",
+        "author": "Frank Sinatra"
+      },
+      {
+        "quote": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "The only thing standing between you and your dream is the will to try and the belief that it is actually possible.",
+        "author": "Joel Brown"
+      },
+      {
+        "quote": "It always seems impossible until it's done.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+        "author": "Winston Churchill"
+      },
+      {
+        "quote": "The secret of getting ahead is getting started.",
+        "author": "Mark Twain"
+      },
+      {
+        "quote": "A person who never made a mistake never tried anything new.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser"
+      },
+      {
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "author": "George Bernard Shaw"
+      },
+      {
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "quote": "Life is 10% what happens to us and 90% how we react to it.",
+        "author": "Charles R. Swindoll"
+      },
+      {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+      },
+      {
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "author": "Socrates"
+      },
+      {
+        "quote": "Don't count the days, make the days count.",
+        "author": "Muhammad Ali"
+      },
+      {
+        "quote": "Life is a journey that must be traveled no matter how bad the roads and accommodations.",
+        "author": "Oliver Goldsmith"
+      },
+      {
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      },
+      {
+        "quote": "It's not about how hard you hit. It's about how hard you can get hit and keep moving forward.",
+        "author": "Rocky Balboa"
+      },
+      {
+        "quote": "Don't let what you cannot do interfere with what you can do.",
+        "author": "John Wooden"
+      },
+      {
+        "quote": "The only person you should try to be better than is the person you were yesterday.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt"
+      },
+      {
+        "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "author": "Ralph Waldo Emerson"
+      },
+      {
+        "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "author": "Albert Schweitzer"
+      },
+      {
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "The best revenge is massive success.",
+        "author": "Frank Sinatra"
+      },
+      {
+        "quote": "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+        "author": "Joel Brown"
+      },
+      {
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson"
+      },
+      {
+        "quote": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+      },
+      {
+        "quote": "Don't count the days, make the days count.",
+        "author": "Muhammad Ali"
+      },
+      {
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius"
+      },
+      {
+        "quote": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser"
+      },
+      {
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "author": "George Bernard Shaw"
+      },
+      {
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "author": "Socrates"
+      },
+      {
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      },
+      {
+        "quote": "Don't let what you cannot do interfere with what you can do.",
+        "author": "John Wooden"
+      },
+      {
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "The only person you should try to be better than is the person you were yesterday.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+      },
+      {
+        "quote": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+      },
+      {
+        "quote": "Don't count the days, make the days count.",
+        "author": "Muhammad Ali"
+      },
+      {
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius"
+      },
+      {
+        "quote": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser"
+      },
+      {
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "author": "George Bernard Shaw"
+      },
+      {
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "author": "Socrates"
+      },
+      {
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      },
+      {
+        "quote": "Don't let what you cannot do interfere with what you can do.",
+        "author": "John Wooden"
+      },
+      {
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "The only person you should try to be better than is the person you were yesterday.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+      },
+      {
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "The best revenge is massive success.",
+        "author": "Frank Sinatra"
+      },
+      {
+        "quote": "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+        "author": "Joel Brown"
+      },
+      {
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson"
+      },
+      {
+        "quote": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+      },
+      {
+        "quote": "Don't count the days, make the days count.",
+        "author": "Muhammad Ali"
+      },
+      {
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius"
+      },
+      {
+        "quote": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser"
+      },
+      {
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "author": "George Bernard Shaw"
+      },
+      {
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "author": "Socrates"
+      },
+      {
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      },
+      {
+        "quote": "Don't let what you cannot do interfere with what you can do.",
+        "author": "John Wooden"
+      },
+      {
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "The only person you should try to be better than is the person you were yesterday.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+      },
+      {
+        "quote": "Life is really simple, but we insist on making it complicated.",
+        "author": "Confucius"
+      },
+      {
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill"
+      },
+      {
+        "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+        "author": "Chinese Proverb"
+      },
+      {
+        "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+        "author": "Robert Frost"
+      },
+      {
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson"
+      },
+      {
+        "quote": "The future depends on what you do today.",
+        "author": "Mahatma Gandhi"
+      },
+      {
+        "quote": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama"
+      },
+      {
+        "quote": "The only person you should try to be better than is the person you were yesterday.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt"
+      },
+      {
+        "quote": "Life is 10% what happens to us and 90% how we react to it.",
+        "author": "Charles R. Swindoll"
+      },
+      {
+        "quote": "The harder I work, the luckier I get.",
+        "author": "Samuel Goldwyn"
+      },
+      {
+        "quote": "If you want to lift yourself up, lift up someone else.",
+        "author": "Booker T. Washington"
+      },
+      {
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "quote": "Don't let yesterday take up too much of today.",
+        "author": "Will Rogers"
+      },
+      {
+        "quote": "Life is short, and it's up to you to make it sweet.",
+        "author": "Sarah Louise Delany"
+      },
+      {
+        "quote": "The way to get started is to quit talking and begin doing.",
+        "author": "Walt Disney"
+      },
+      {
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "You miss 100% of the shots you don't take.",
+        "author": "Wayne Gretzky"
+      },
+      {
+        "quote": "The best revenge is massive success.",
+        "author": "Frank Sinatra"
+      },
+      {
+        "quote": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "The only thing standing between you and your dream is the will to try and the belief that it is actually possible.",
+        "author": "Joel Brown"
+      },
+      {
+        "quote": "It always seems impossible until it's done.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+        "author": "Winston Churchill"
+      },
+      {
+        "quote": "The secret of getting ahead is getting started.",
+        "author": "Mark Twain"
+      },
+      {
+        "quote": "A person who never made a mistake never tried anything new.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser"
+      },
+      {
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "author": "George Bernard Shaw"
+      },
+      {
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "quote": "Life is 10% what happens to us and 90% how we react to it.",
+        "author": "Charles R. Swindoll"
+      },
+      {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+      },
+      {
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "author": "Socrates"
+      },
+      {
+        "quote": "Don't count the days, make the days count.",
+        "author": "Muhammad Ali"
+      },
+      {
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      },
+      {
+        "quote": "Don't let what you cannot do interfere with what you can do.",
+        "author": "John Wooden"
+      },
+      {
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "The only person you should try to be better than is the person you were yesterday.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+      },
+      {
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "The best revenge is massive success.",
+        "author": "Frank Sinatra"
+      },
+      {
+        "quote": "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+        "author": "Joel Brown"
+      },
+      {
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson"
+      },
+      {
+        "quote": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+      },
+      {
+        "quote": "Don't count the days, make the days count.",
+        "author": "Muhammad Ali"
+      },
+      {
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius"
+      },
+      {
+        "quote": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser"
+      },
+      {
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "author": "George Bernard Shaw"
+      },
+      {
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "author": "Socrates"
+      },
+      {
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      },
+      {
+        "quote": "Don't let what you cannot do interfere with what you can do.",
+        "author": "John Wooden"
+      },
+      {
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "The only person you should try to be better than is the person you were yesterday.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+      },
+      {
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "The best revenge is massive success.",
+        "author": "Frank Sinatra"
+      },
+      {
+        "quote": "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+        "author": "Joel Brown"
+      },
+      {
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson"
+      },
+      {
+        "quote": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+      },
+      {
+        "quote": "Don't count the days, make the days count.",
+        "author": "Muhammad Ali"
+      },
+      {
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius"
+      },
+      {
+        "quote": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser"
+      },
+      {
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "author": "George Bernard Shaw"
+      },
+      {
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "author": "Socrates"
+      },
+      {
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      },
+      {
+        "quote": "Don't let what you cannot do interfere with what you can do.",
+        "author": "John Wooden"
+      },
+      {
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "The only person you should try to be better than is the person you were yesterday.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+      },
+      {
+        "quote": "Life is really simple, but we insist on making it complicated.",
+        "author": "Confucius"
+      },
+      {
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill"
+      },
+      {
+        "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+        "author": "Chinese Proverb"
+      },
+      {
+        "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+        "author": "Robert Frost"
+      },
+      {
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson"
+      },
+      {
+        "quote": "The future depends on what you do today.",
+        "author": "Mahatma Gandhi"
+      },
+      {
+        "quote": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama"
+      },
+      {
+        "quote": "The only person you should try to be better than is the person you were yesterday.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt"
+      },
+      {
+        "quote": "Life is 10% what happens to us and 90% how we react to it.",
+        "author": "Charles R. Swindoll"
+      },
+      {
+        "quote": "The harder I work, the luckier I get.",
+        "author": "Samuel Goldwyn"
+      },
+      {
+        "quote": "If you want to lift yourself up, lift up someone else.",
+        "author": "Booker T. Washington"
+      },
+      {
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "quote": "Don't let yesterday take up too much of today.",
+        "author": "Will Rogers"
+      },
+      {
+        "quote": "Life is short, and it's up to you to make it sweet.",
+        "author": "Sarah Louise Delany"
+      },
+      {
+        "quote": "The way to get started is to quit talking and begin doing.",
+        "author": "Walt Disney"
+      },
+      {
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "You miss 100% of the shots you don't take.",
+        "author": "Wayne Gretzky"
+      },
+      {
+        "quote": "The best revenge is massive success.",
+        "author": "Frank Sinatra"
+      },
+      {
+        "quote": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "The only thing standing between you and your dream is the will to try and the belief that it is actually possible.",
+        "author": "Joel Brown"
+      },
+      {
+        "quote": "It always seems impossible until it's done.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+        "author": "Winston Churchill"
+      },
+      {
+        "quote": "The secret of getting ahead is getting started.",
+        "author": "Mark Twain"
+      },
+      {
+        "quote": "A person who never made a mistake never tried anything new.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser"
+      },
+      {
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "author": "George Bernard Shaw"
+      },
+      {
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+      },
+      {
+        "quote": "Don't count the days, make the days count.",
+        "author": "Muhammad Ali"
+      },
+      {
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius"
+      },
+      {
+        "quote": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser"
+      },
+      {
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "author": "George Bernard Shaw"
+      },
+      {
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "author": "Socrates"
+      },
+      {
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+      },
+      {
+        "quote": "Don't let what you cannot do interfere with what you can do.",
+        "author": "John Wooden"
+      },
+      {
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "The only person you should try to be better than is the person you were yesterday.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+      },
+      {
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+      },
+      {
+        "quote": "The best revenge is massive success.",
+        "author": "Frank Sinatra"
+      },
+      {
+        "quote": "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+        "author": "Joel Brown"
+      },
+      {
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson"
+      },
+      {
+        "quote": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+      },
+      {
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+    },
+    {
+        "quote": "Don't count the days, make the days count.",
+        "author": "Muhammad Ali"
+    },
+    {
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+    },
+    {
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius"
+    },
+    {
+        "quote": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser"
+    },
+    {
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "author": "George Bernard Shaw"
+    },
+    {
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "author": "Socrates"
+    },
+    {
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+    },
+    {
+        "quote": "Don't let what you cannot do interfere with what you can do.",
+        "author": "John Wooden"
+    },
+    {
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+    },
+    {
+        "quote": "The only person you should try to be better than is the person you were yesterday.",
+        "author": "Unknown"
+    },
+    {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+    },
+    {
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+    },
+    {
+        "quote": "The best revenge is massive success.",
+        "author": "Frank Sinatra"
+    },
+    {
+        "quote": "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+        "author": "Joel Brown"
+    },
+    {
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson"
+    },
+    {
+        "quote": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein"
+    },
+    {
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+    },
+    {
+        "quote": "Don't count the days, make the days count.",
+        "author": "Muhammad Ali"
+    },
+    {
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+    },
+    {
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius"
+    },
+    {
+        "quote": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser"
+    },
+    {
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "author": "George Bernard Shaw"
+    },
+    {
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "author": "Socrates"
+    },
+    {
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+    },
+    {
+        "quote": "Don't let what you cannot do interfere with what you can do.",
+        "author": "John Wooden"
+    },
+    {
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+    },
+    {
+        "quote": "The only person you should try to be better than is the person you were yesterday.",
+        "author": "Unknown"
+    },
+    {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+    },
+    {
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+    },
+    {
+        "quote": "The best revenge is massive success.",
+        "author": "Frank Sinatra"
+    },
+    {
+        "quote": "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+        "author": "Joel Brown"
+    },
+    {
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson"
+    },
+    {
+        "quote": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein"
+    },
+    {
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+    },
+    {
+        "quote": "Don't count the days, make the days count.",
+        "author": "Muhammad Ali"
+    },
+    {
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
     }
 ]
