@@ -33,3 +33,5 @@ This project is licensed under the [MIT License](LICENSE).
 ### Note to Contributors
 
 Feel free to contribute to the project by adding new quotes to the database or suggesting improvements to the user interface. The project is open to enhancements and collaborative efforts to make it a valuable resource for the programming community.
+
+*Free to use, made by [@bhargavtz](https://github.com/bhargavtz)*
