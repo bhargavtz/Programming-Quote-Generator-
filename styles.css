@@ -1,6 +1,6 @@
 body {
     background-color: #f4f4f4;
-    font-family: Arial, sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,13 +9,19 @@ body {
     padding: 0;
     color: #333;
 }
+
 #new-quote {
     animation: fadeIn 1s;
 }
 
 @keyframes fadeIn {
-    0% {opacity: 0;}
-    100% {opacity: 1;}
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }
 
 
@@ -23,8 +29,20 @@ body {
     text-align: center;
     padding: 40px;
     background-color: #fff;
-    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
-    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 3, 0.2);
+    border-radius: 7px;
+    margin: 20px;
+}
+
+.copy-quote{
+    background-color: #9d5a98;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 9px;
+
 }
 
 h1 {
@@ -39,26 +57,31 @@ button {
     padding: 10px 20px;
     cursor: pointer;
     font-size: 16px;
-    border-radius: 5px;
+    border-radius: 9px;
 }
 
 button:hover {
     background-color: #444;
 }
+
 body {
-    background: linear-gradient(135deg, #c71aea, #3cdd27);
+    background: linear-gradient(135deg, #f9e7bb, #e97cbb, #3d47d9);
 }
+
 @media only screen and (max-width: 600px) {
     body {
         flex-direction: column;
     }
+
     #quote-container {
-        width: 90%;
+        width: 60%;
     }
 }
+
 .box {
     background-color: #f0f0f0;
 }
+
 #creator {
     position: absolute;
     top: 10px;
@@ -66,10 +89,7 @@ body {
     font-size: 18px;
     color: #333;
 }
+
 h1 {
     color: #4a4a4a;
-}
-
-body {
-    background: linear-gradient(135deg, #f9e7bb, #e97cbb, #3d47d9);
 }
